@@ -22,19 +22,8 @@
 ```
 
 
-## HUB SAYA DENGAN:
-- [WhatsApp](wa.me/6281368646011)
-- [Instagram](instagram.com/anker_2412)
-- [My Bot](wa.me/14155285587)
-- [Group My Bot](https://chat.whatsapp.com/G8Lb8t0qG0iLFLxOCPY5hb)
-- [Group Diskusi Bot](https://chat.whatsapp.com/BtxiSvctCej1e1Ehkm8h9Q)
-<Thanks To:>
+### ENTREM EM CONTATO COMIGO!
 
-## Special Thanks To
-
-- [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
-- [RyzRdy](https://github.com/RyzRdy)
-- [Paritsod](https://github.com/Paritsod)
-- [mrfzvx12](https://github.com/mrfzvx12)
-- [Mr-hadi](https://github.com/Mr-hadi)
-- [MhankBarBar](https://github.com/mhankbarbar)
+- Whatsapp: wam.me/+556993899391
+- Instagram: @zultra_edits
+- YouTube: https://youtube.com/channel/UCpS0ngad4LjtDoux_JvOK6Q
