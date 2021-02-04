@@ -1,9 +1,10 @@
-### Moshi Moshi~ I'm ANKER
+### VINZIEUS NÉ KARALHO
 
-## Note : Jangan ubah ${pushname} jadi ${prefix} di bagian menu!!!
+## Note : TRADUZINDO PELO ZEUS, SE FOR EDITAR DEIXE OS CRÉDITOS!
+
 
 ## Install
-Follow The Steps Below!
+
 
 ```bash
 > termux-setup-storage
