@@ -1,9 +1,9 @@
 ### VINZIEUS DOMINANDO O WHATSAPP
 
-## Note : TRADUZINDO PELO ZEUS, SE FOR EDITAR DEIXE OS CRÉDITOS!
+## NOTA : TRADUZINDO PELO ZEUS, SE FOR EDITAR DEIXE OS CRÉDITOS!
 
 
-## Install
+## INSTALAÇÃO
 
 
 ```bash
@@ -15,7 +15,7 @@
 > bash install.sh
 ```
 
-## Usage
+## INICIAR
 
 ```bash
 > npm start
