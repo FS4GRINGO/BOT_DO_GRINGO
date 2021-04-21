@@ -1,5 +1,5 @@
 const zeusmenu = (prefix, pushname) => {
-    return `❍ *Comandos do Zeus*
+    return `❍ *Comandos do GRINGO*
     
     ║➩ ❍ ${prefix}setprefix
     ║➩ ❍ ${prefix}block
