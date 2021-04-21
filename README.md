@@ -10,8 +10,8 @@
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/vinizeus/vinizeus.git
-> cd vinizeus
+> git clone https://github.com/FS4GRINGO/BOT_DO_GRINGO.git
+> cd BOT_DO_GRINGO-master
 > bash install.sh
 ```
 
