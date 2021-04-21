@@ -97,9 +97,9 @@ const { zeusmenu } = require('./database/zeusmenu')
 // Load Vcard Contact
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:ZEUS\n' //NAMA LU
+            + 'FN:GRINGO\n' //NAMA LU
             + 'ORG:Owner Bot;\n' // NAMA CONTACT OWNER
-            + 'TEL;type=CELL;type=VOICE;waid=556993899391:+55 69 9389-9391\n' // NOMER OWNER
+            + 'TEL;type=CELL;type=VOICE;waid=5547984240526:+55 47 98424-0526\n' // NOMER OWNER
             + 'END:VCARD'
 prefix = '#'//PREFIX BOT
 blocked = ['556993899391']//NOMER BLOCK
@@ -397,7 +397,7 @@ async function starts() {
         		const bisakah = ['Bisa','Tidak Bisa','Bisa Jadi','Kurang yakin','Pasti Bisa','Kaga Bakal Bisa']
 		        const kapankah = ['1 Hari Lagi','2 Minggu Lagi','1 Bulan Lagi','1 Tahun Lagi','3 Hari Lagi','1 Minggu Lagi','4 Bulan Lagi','3 Tahun Lagi','20 Tahun Lagi']
 			const botNumber = client.user.jid
-			const ownerNumber = ["556993899391@s.whatsapp.net"] // Nomer Owner
+			const ownerNumber = ["5547984240526@s.whatsapp.net"] // Nomer Owner
 			const nomorOwner = [ownerNumber]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
@@ -420,8 +420,8 @@ async function starts() {
                         pushname = client.contacts[sender] != undefined ? client.contacts[sender].vname || client.contacts[sender].notify : undefined
 
                         // Options
-                        const botName = 'ZEUS'//Nama Bot
-                        const ownerName = 'Zeus<3'//Nama Owner
+                        const botName = 'GRINGO BOT'//Nama Bot
+                        const ownerName = 'GRINGO<3'//Nama Owner
                         const BarBarKey = 'YOUR_APIKEY'//Apikey Mhank Bar Bar
 
 			const isUrl = (url) => {
@@ -801,7 +801,7 @@ async function starts() {
 					break
 				case 'marvellogo':
 					var gh = body.slice(12)
-					if (args.length < 1) return reply(`Enviar pedidos ${prefix}marvellogo texto, exemplo ${prefix}marvellogo Zeus Criador`)
+					if (args.length < 1) return reply(`Enviar pedidos ${prefix}marvellogo texto, exemplo ${prefix}marvellogo GRINGO Criador`)
                                         if (!isRegister) return reply(mess.only.daftarB)
                                         if (isLimit(sender)) return reply(ind.limitend(pusname))
 					reply(mess.wait)
