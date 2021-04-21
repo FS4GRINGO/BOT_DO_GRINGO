@@ -1,6 +1,6 @@
-### VINZIEUS DOMINANDO O WHATSAPP
+### GRINGO DOMINANDO O WHATSAPP
 
-## NOTA : TRADUZINDO PELO ZEUS, SE FOR EDITAR DEIXE OS CRÉDITOS!
+## NOTA : TRADUZINDO PELO GRINGO, SE FOR EDITAR DEIXE OS CRÉDITOS!
 
 
 ## INSTALAÇÃO
@@ -24,6 +24,6 @@
 
 ### ENTREM EM CONTATO COMIGO!
 
-- Whatsapp: wam.me/+556993899391
-- Instagram: @zultra_edits
-- YouTube: https://youtube.com/channel/UCpS0ngad4LjtDoux_JvOK6Q
+- Whatsapp: wam.me/+5547984240526
+- Instagram: @fs4_patrao
+- YouTube: https://youtu.be/GDPyOECOGRI
