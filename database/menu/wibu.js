@@ -3,16 +3,16 @@ const wibu = (pushname, prefix, botName, ownerName) => {
 ╔══✪〘 Informações 〙✪══
 ║
 ║───────⊹⊱✫⊰⊹───────
-║➩ ❍ wa.me/556993899391
+║➩ ❍ wa.me/5547984240526
 ║➩ ❍ Prefix: 「  ${prefix}  」
-║➩ ❍ Criador: ${botName}
+║➩ ❍ Criador: ${GRINGO}
 ║➩ ❍ Nome: ${pushname}️
 ║➩ ❍ XP: ${reqXp}
 ║➩ ❍ Money: ${uangku}
 ───────⊹⊱✫⊰⊹───────
 
 
-                     𝚉𝙴𝚄𝚂
+                     GRINGO
 
 ───────⊹⊱✫⊰⊹───────
 ║➩ ❍ *${prefix}info*
