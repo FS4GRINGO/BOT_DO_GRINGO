@@ -3,9 +3,9 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 ╔══✪〘 Informações 〙✪══
 ║
 ║───────⊹⊱✫⊰⊹───────
-║➩ ❍ wa.me/556993899391
+║➩ ❍ wa.me/5547984240526
 ║➩ ❍ Prefix: 「  ${prefix}  」
-║➩ ❍ Criador: ${botName}
+║➩ ❍ Criador: ${GRINGO}
 ║➩ ❍ Nome: ${pushname}️
 ║➩ ❍ XP: ${reqXp}
 ║➩ ❍ Money: ${uangku}
